@@ -1,2 +1,2 @@
-# Ejercicio-disno-responsivo
+# Ejercicio-diseno-responsivo
 Ejercicio de diseño responsivo en CSS
